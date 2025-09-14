@@ -50,7 +50,5 @@ In today’s fast-paced academic and professional environment, managing multiple
 3. **Database:** MySQL  
 
 ---
-
-## License & Copyright  
 © 2025 KebanggaanMamah Team.
 

@@ -8,11 +8,11 @@
 
 ## Team Profile: **KebanggaanMamah**
 
-**Our Members:**
-1. **Nazril Kanahaya Akbar** (Team Leader)  
-2. **Rivan Ghaeska** (Member)  
-3. **Nayla Mutia Silvia Dina** (Member)  
-4. **Nailis Saputri** (Member)
+**Our Members:**  
+1. [Nazril Kanahaya Akbar](https://github.com/nazrilka) (Team Leader)  
+2. [Rivan Ghaeska](https://github.com/ghaezka) (Member)  
+3. [Nayla Mutia Silvia Dina](https://github.com/na94605) (Member)  
+4. [Nailis Saputri](https://github.com/Nailissaputri) (Member)  
 
 ---
 
